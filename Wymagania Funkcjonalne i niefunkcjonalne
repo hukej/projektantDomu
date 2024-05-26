@@ -1,0 +1,33 @@
+Wymagania funkcjonalne:
+- Formularz logowania (możliwość rejestracji i logowania za pomocą np.
+  google lub facebook) w prawym górnym rogu.
+- Możliwość utworzenia wieloosobowej grupy osób odpowiedzialnych za
+ projekt domu/mieszkania.
+- Wyraźny, wielofunkcyjny a zarazem prosty w obsłudze schemat domu
+/mieszkania z możliwością edytowania poszczególnych elementów:
+* dodawanie pokoi
+*konfiguracja wymiarów pokoi i przedstawienie ich rzecywistych rozmiarów
+  wg. m2
+*dodawanie mebli i okien
+*niesymetryczne ściany
+- Złożone ustawienia, w których możemy edytować np. kolor tła, czcionkę
+ strony, język strony, tryb ciemny/jasny, 
+- Funkcja eksportowania wcześniej utworzonych projektów,
+- Gotowe schematy domu (płatne, darmowe) oraz pakiety schematów,
+- Prezentacja najnowszych lub najpopularniejszych projektów innych użytkowników.
+- Sztuczna inteligencja umożliwiająca pomoc użytkownikowi w obsłudze
+  strony,
+- System monitorowania błędów
+- Sekcja nowości i aktualności: Informacje o najnowszych trendach w architekturze, aktualizacje strony.
+- Sekcja informacji o autorach strony i nadchodzących nowościach.
+ 
+Wymagania niefunkcjonalne:
+-Strona powinna się ładować szybko.
+-Zdjęcia oraz inne multimedia powinny być kompresowane, aby nie
+ spowalniać strony
+-Strona musi obsługiwać dużo użytkowników bez spadku wydajności.
+-Strona powinna korzystać z zabezpieczeń i polityki prywatności.
+-Strona powinna być zoptymalizowana do użytku na róznych urządzeniach.
+-Strona powinna być zoptymalizowana tak, żeby mozna było szybko 
+wprowadzać aktualizacje.
+- Strona musi być zgodna z przepisami dotyczącymi ochrony danych osobowych, takimi jak RODO (GDPR) w UE.
