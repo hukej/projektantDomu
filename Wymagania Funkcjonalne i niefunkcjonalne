@@ -11,23 +11,23 @@ Wymagania funkcjonalne:
 *dodawanie mebli i okien
 *niesymetryczne ściany
 - Złożone ustawienia, w których możemy edytować np. kolor tła, czcionkę
- strony, język strony, tryb ciemny/jasny, 
+ aplikacji, język aplikacji, tryb ciemny/jasny, 
 - Funkcja eksportowania wcześniej utworzonych projektów,
 - Gotowe schematy domu (płatne, darmowe) oraz pakiety schematów,
 - Prezentacja najnowszych lub najpopularniejszych projektów innych użytkowników.
 - Sztuczna inteligencja umożliwiająca pomoc użytkownikowi w obsłudze
-  strony,
+  aplikacji,
 - System monitorowania błędów
-- Sekcja nowości i aktualności: Informacje o najnowszych trendach w architekturze, aktualizacje strony.
+- Sekcja nowości i aktualności: Informacje o najnowszych trendach w architekturze, aktualizacje aplikacji.
 - Sekcja informacji o autorach strony i nadchodzących nowościach.
  
 Wymagania niefunkcjonalne:
--Strona powinna się ładować szybko.
+-Aplikacja powinna się ładować szybko.
 -Zdjęcia oraz inne multimedia powinny być kompresowane, aby nie
- spowalniać strony
--Strona musi obsługiwać dużo użytkowników bez spadku wydajności.
--Strona powinna korzystać z zabezpieczeń i polityki prywatności.
--Strona powinna być zoptymalizowana do użytku na róznych urządzeniach.
--Strona powinna być zoptymalizowana tak, żeby mozna było szybko 
+ spowalniać działania aplikacji.
+-Aplikacja musi obsługiwać dużo użytkowników bez spadku wydajności.
+-Aplikacja powinna korzystać z zabezpieczeń i polityki prywatności.
+-Aplikacja powinna być zoptymalizowana do użytku na róznych urządzeniach.
+-Aplikacja powinna być zoptymalizowana tak, żeby mozna było szybko 
 wprowadzać aktualizacje.
-- Strona musi być zgodna z przepisami dotyczącymi ochrony danych osobowych, takimi jak RODO (GDPR) w UE.
+- Aplikacja musi być zgodna z przepisami dotyczącymi ochrony danych osobowych, takimi jak RODO (GDPR) w UE.
